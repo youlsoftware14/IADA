@@ -1,0 +1,51 @@
+   <div class="container-fluid bg-secondary top-bar wow fadeIn" data-wow-delay="0.1s" style="background-color:   #0dcaf0;" > 
+        <div class="row align-items-center h-100" style="background-color:   #0dcaf0;">
+            <div class="col-lg-4 text-center text-lg-start" style="background-color:   #0dcaf0;"
+
+>
+                <a href="index.html">
+                    
+                    <img src="img/IMG-20250911-WA0024.jpg" alt="IADA Logo" style="height: 60px; margin-bottom: 10px;" >
+                    <span class="display-5 text-primary m-0" >IADA</span>
+                    
+                </a>
+            </div>
+            <div class="col-lg-8 d-none d-lg-block"  style="background-color:   #0dcaf0;">
+                <div class="row" >
+                    <div class="col-lg-4" style="background-color:   #0dcaf0;" >
+                        <div class="d-flex justify-content-end" style="background-color:   #0dcaf0;">
+                            <div class="flex-shrink-0 btn-square bg-primary" style="background-color:   #0dcaf0;" >
+                                <i class="fa fa-phone-alt text-dark"></i>
+                            </div>
+                            <div class="ms-2"  style="background-color:   #0dcaf0;">
+                                <h6 class="text-primary mb-0">Appelez Nous</h6>
+                                <span class="text-white">+33 695757693</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4"  style="background-color:   #0dcaf0;">
+                        <div class="d-flex justify-content-end" style="background-color:   #0dcaf0;">
+                            <div class="flex-shrink-0 btn-square bg-primary" style="background-color:   #0dcaf0;">
+                                <i class="fa fa-envelope-open text-dark"></i>
+                            </div>
+                            <div class="ms-2" style="background-color:   #0dcaf0;">
+                                <h6 class="text-primary mb-0">Envoyer nous un mail</h6>
+                                <span class="text-white">Jtanobian@gmail.com</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4" style="background-color:   #0dcaf0;">
+                    
+                            <div class="flex-shrink-0 btn-square bg-primary" style="background-color:   #0dcaf0;">
+                                <i class="fa fa-map-marker-alt text-dark"></i>
+                            </div>
+                            <div class="ms-2">
+                                <h6 class="text-primary mb-0">Addresse</h6>
+                                <span class="text-white">123 rue, paris, France</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
