@@ -123,7 +123,7 @@
 
 @media (min-width: 992px) {
     .navbar .nav-item .dropdown-menu {
-        display: block;
+        display: none;
         border: none;
         margin-top: 0;
         top: 150%;
@@ -132,6 +132,8 @@
         transition: .5s;
     }
 
+.show { display: block; }
+    
     .navbar .nav-item:hover .dropdown-menu {
         top: 100%;
         visibility: visible;
